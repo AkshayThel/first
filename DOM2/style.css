@@ -1,0 +1,32 @@
+
+h1{
+    color : red;
+    background-color: violet
+    
+
+}
+.colorred {
+    color : yellow;
+    background-color: red;
+
+}
+
+.coloryellow{
+    color : red
+}
+
+.colorVoilet {
+    color : violet
+
+}
+
+
+.colorgreen{
+    color :green
+
+}
+#diff {
+    color : blue;
+    background-color: sandybrown
+    ;
+}
